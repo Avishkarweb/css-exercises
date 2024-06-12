@@ -1,0 +1,17 @@
+.common{
+    background-color: rgb(238, 12, 99);
+    font-family: Verdana, DejaVu sans, Tahoma, sans-serif;
+}
+#two{
+    color: rgb(0, 0, 99);
+    font-size: 36px;
+}
+.common#three{
+    font-size: 24px;
+}
+#four{
+    background-color: rgb(7, 238, 15);
+    font-size: 24px;
+    font-weight: 800;
+}
+#
